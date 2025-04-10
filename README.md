@@ -71,5 +71,5 @@ The performance of SGA on four VLP models (ALBEF, TCL, CLIP<sub>ViT</sub> and CL
 |              | Ours       | **39.15**  | **0.984**  | **0.021**  |
 ## Visualization
 <p align="left">
-    <img src="./imgs/visualization.jpg" width=100%\>
+    <img src="./imgs/Visualization.jpg" width=100%\>
 </p>
