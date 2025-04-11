@@ -1,6 +1,6 @@
 # DGSA
 
-<img src='./imgs/OverView.png' width=90%>
+<img src='./imgs/OverView.jpg' width=90%>
 
 ## Brief Introduction
 Recent works enhance robustness, they also introduce security risks (e.g., adversarial noise). Most existing attack methods (e.g., Set-level Guided Attacks, SGA) primarily focus on transferability while neglecting stealth and often require a high attack budget.We propose a novel \textbf{\textit{Dual-Level Guided Sparse Attack (DGSA)}}, which employs dual-masking screening mechanism to generate sparse noise. The adversarial examples produced by DGSA exhibit highly imperceptible characteristics by leveraging a two-tiered masking strategy—\textbf{Group-level} and \textbf{Pixel-level} masks—to precisely control perturbations at different scales.
